@@ -44,7 +44,7 @@
 42,Brazil,São Paulo,Media & Marketing,2,"São Paulo, Brazil",-23.5505199,-46.63330939999999
 43,Brazil,São Paulo,Real Estate,2,"São Paulo, Brazil",-23.5505199,-46.63330939999999
 44,Canada,Bradford,Finance & Insurance,1,"Bradford, Canada",44.11098579999999,-79.5794265
-45,Canada,Brampton,Finance & Insurance,1,"Brampton, Canada",,
+45,Canada,Brampton,Finance & Insurance,1,"Brampton, Canada",43.7315479,-79.7624177
 46,Canada,Brampton,ICT,1,"Brampton, Canada",43.7315479,-79.7624177
 47,Canada,Brossard,Engineering,1,"Brossard, Canada",45.4514357,-73.4619103
 48,Canada,Brossard,Other or Unknown,1,"Brossard, Canada",45.4514357,-73.4619103
@@ -97,7 +97,7 @@
 95,Canada,Windsor,ICT,1,"Windsor, Canada",42.3149367,-83.03636329999999
 96,Chile,Santiago,Arts & Education,1,"Santiago, Chile",-33.4488897,-70.6692655
 97,China,Chengdu,Health,1,"Chengdu, China",30.572816,104.066801
-98,China,Hong Kong ,Other or Unknown,1,"Hong Kong , China",,
+98,China,Hong Kong ,Other or Unknown,1,"Hong Kong , China",22.396428,114.109497
 99,China,Shanghai,Manufacturing,1,"Shanghai, China",31.230416,121.473701
 100,China,Taipa,Other or Unknown,2,"Taipa, China",22.1596848,113.563922
 101,China,Zhuhai,Other or Unknown,1,"Zhuhai, China",22.270978,113.576678
@@ -192,8 +192,8 @@
 190,Malta,Xemxija,ICT,1,"Xemxija, Malta",35.950551,14.380172
 191,Mexico,Ciudad De México,Retail,1,"Ciudad De México, Mexico",19.4326077,-99.133208
 192,Mexico,Coacalco,Other or Unknown,1,"Coacalco, Mexico",19.6385618,-99.0978796
-193,Mexico,Mexico,ICT,1,"Mexico, Mexico",19.4326077,-99.133208
-194,Mexico,Mexico,Other or Unknown,2,"Mexico, Mexico",19.4326077,-99.133208
+193,Mexico,Mexico,ICT,1,"Mexico, Mexico",23.634501,-102.552784
+194,Mexico,Mexico,Other or Unknown,2,"Mexico, Mexico",23.634501,-102.552784
 195,Mexico,Mexico City,Other or Unknown,1,"Mexico City, Mexico",19.4326077,-99.133208
 196,Mexico,Mexico City,Public Sector,1,"Mexico City, Mexico",19.4326077,-99.133208
 197,Mexico,México ,Media & Marketing,1,"México , Mexico",19.4326077,-99.133208
@@ -305,14 +305,14 @@
 303,United States,Addison,Other or Unknown,1,"Addison, United States",32.96179,-96.82916850000001
 304,United States,Albany,Arts & Education,1,"Albany, United States",42.6525793,-73.7562317
 305,United States,Albuquerque,Health,1,"Albuquerque, United States",35.0853336,-106.6055534
-306,United States,Aldie,ICT,1,"Aldie, United States",,
+306,United States,Aldie,ICT,1,"Aldie, United States",38.9756745,-77.6418724
 307,United States,Alexandria,ICT,1,"Alexandria, United States",38.8048355,-77.0469214
 308,United States,Alexandria,Other or Unknown,1,"Alexandria, United States",38.8048355,-77.0469214
 309,United States,Andover,Engineering,1,"Andover, United States",42.6583356,-71.1367953
 310,United States,Ankeny,Other or Unknown,1,"Ankeny, United States",41.7317884,-93.6001278
 311,United States,Ann Arbor ,ICT,1,"Ann Arbor , United States",42.2808256,-83.7430378
 312,United States,Antioch,Other or Unknown,1,"Antioch, United States",38.0049214,-121.805789
-313,United States,Arlignton,Other or Unknown,1,"Arlignton, United States",38.8799697,-77.1067698
+313,United States,Arlignton,Other or Unknown,1,"Arlignton, United States",32.735687,-97.10806559999999
 314,United States,Arlington,ICT,1,"Arlington, United States",38.8799697,-77.1067698
 315,United States,Arlington,Media & Marketing,1,"Arlington, United States",38.8799697,-77.1067698
 316,United States,Arlington,Other or Unknown,1,"Arlington, United States",38.8799697,-77.1067698
@@ -384,14 +384,14 @@
 382,United States,Chandler,Other or Unknown,1,"Chandler, United States",33.3061605,-111.8412502
 383,United States,Chapel Hill,Engineering,1,"Chapel Hill, United States",35.9131996,-79.0558445
 384,United States,Chapel Hill,Media & Marketing,1,"Chapel Hill, United States",35.9131996,-79.0558445
-385,United States,Charlestown,Legal Services,1,"Charlestown, United States",42.3782065,-71.0602131
+385,United States,Charlestown,Legal Services,1,"Charlestown, United States",,
 386,United States,Charlotte,Finance & Insurance,1,"Charlotte, United States",35.2270869,-80.8431267
 387,United States,Charlotte,ICT,1,"Charlotte, United States",35.2270869,-80.8431267
 388,United States,Charlotte,Other or Unknown,1,"Charlotte, United States",35.2270869,-80.8431267
-389,United States,Chatham,Other or Unknown,1,"Chatham, United States",40.7265893,-74.4172591
+389,United States,Chatham,Other or Unknown,1,"Chatham, United States",41.6820897,-69.95976639999999
 390,United States,Cherry Hill,Mining,1,"Cherry Hill, United States",39.926813,-75.0246312
 391,United States,Chesapeake,Other or Unknown,1,"Chesapeake, United States",36.7682088,-76.2874927
-392,United States,Chestnut Hill,Other or Unknown,1,"Chestnut Hill, United States",,
+392,United States,Chestnut Hill,Other or Unknown,1,"Chestnut Hill, United States",42.3303798,-71.166187
 393,United States,Chicago,Arts & Education,1,"Chicago, United States",41.8781136,-87.6297982
 394,United States,Chicago,ICT,2,"Chicago, United States",41.8781136,-87.6297982
 395,United States,Chicago,Manufacturing,1,"Chicago, United States",41.8781136,-87.6297982
@@ -441,7 +441,7 @@
 439,United States,Falls Church,Other or Unknown,1,"Falls Church, United States",38.88233400000001,-77.1710914
 440,United States,Farmington,Engineering,1,"Farmington, United States",42.4644795,-83.37632180000001
 441,United States,Fayetteville,Other or Unknown,1,"Fayetteville, United States",35.0526641,-78.87835849999999
-442,United States,Fayetteville ,ICT,1,"Fayetteville , United States",,
+442,United States,Fayetteville ,ICT,1,"Fayetteville , United States",35.0526641,-78.87835849999999
 443,United States,Florida,Finance & Insurance,1,"Florida, United States",27.6648274,-81.5157535
 444,United States,Flushing,ICT,1,"Flushing, United States",40.7674987,-73.833079
 445,United States,Fort Knox,Other or Unknown,1,"Fort Knox, United States",37.8832286,-85.96528169999999
@@ -507,7 +507,7 @@
 505,United States,Lebanon,Health,1,"Lebanon, United States",40.3409251,-76.4113497
 506,United States,Ledyard,Health,1,"Ledyard, United States",41.4456444,-72.0181743
 507,United States,Ledyard,Other or Unknown,1,"Ledyard, United States",41.4456444,-72.0181743
-508,United States,Lexington,Other or Unknown,1,"Lexington, United States",38.0405837,-84.5037164
+508,United States,Lexington,Other or Unknown,1,"Lexington, United States",,
 509,United States,Lithia,Other or Unknown,1,"Lithia, United States",27.8187623,-82.1496049
 510,United States,Littleton,Engineering,1,"Littleton, United States",39.613321,-105.0166498
 511,United States,Lombard,Arts & Education,1,"Lombard, United States",41.8800296,-88.00784349999999
@@ -536,14 +536,14 @@
 534,United States,Miami,Media & Marketing,2,"Miami, United States",25.7616798,-80.1917902
 535,United States,Miami,Other or Unknown,1,"Miami, United States",25.7616798,-80.1917902
 536,United States,Miami Beach,Other or Unknown,1,"Miami Beach, United States",25.790654,-80.1300455
-537,United States,Middletown,Arts & Education,1,"Middletown, United States",41.5623209,-72.6506488
+537,United States,Middletown,Arts & Education,1,"Middletown, United States",41.4459271,-74.42293409999999
 538,United States,Minden,Engineering,1,"Minden, United States",38.9540739,-119.7657332
 539,United States,Missouri City,Health,1,"Missouri City, United States",29.6185669,-95.5377215
 540,United States,Monmouth Junction,ICT,1,"Monmouth Junction, United States",40.3789957,-74.54654359999999
 541,United States,Montgomery,ICT,1,"Montgomery, United States",32.3668052,-86.2999689
 542,United States,Morgantown,Other or Unknown,1,"Morgantown, United States",39.629526,-79.95589679999999
 543,United States,Mount Prospect,Health,1,"Mount Prospect, United States",42.0664167,-87.9372908
-544,United States,Mount Vernon,Media & Marketing,1,"Mount Vernon, United States",38.707982,-77.0861753
+544,United States,Mount Vernon,Media & Marketing,1,"Mount Vernon, United States",40.9125992,-73.8370786
 545,United States,Mountain View,ICT,1,"Mountain View, United States",37.3860517,-122.0838511
 546,United States,Mt Pleasant,Finance & Insurance,1,"Mt Pleasant, United States",32.8323225,-79.82842579999999
 547,United States,Mt Pleasant,Health,1,"Mt Pleasant, United States",32.8323225,-79.82842579999999
@@ -553,14 +553,14 @@
 551,United States,Nevada City,Media & Marketing,1,"Nevada City, United States",39.2615606,-121.0160594
 552,United States,New Britain,Other or Unknown,1,"New Britain, United States",41.6612104,-72.7795419
 553,United States,New Hampton,Health,1,"New Hampton, United States",43.6236211,-71.6304407
-554,United States,New York,Arts & Education,3,"New York, United States",40.7127837,-74.0059413
-555,United States,New York,ICT,3,"New York, United States",40.7127837,-74.0059413
-556,United States,New York,Media & Marketing,3,"New York, United States",40.7127837,-74.0059413
-557,United States,New York,Other or Unknown,5,"New York, United States",40.7127837,-74.0059413
+554,United States,New York,Arts & Education,3,"New York, United States",43.2994285,-74.21793260000001
+555,United States,New York,ICT,3,"New York, United States",43.2994285,-74.21793260000001
+556,United States,New York,Media & Marketing,3,"New York, United States",43.2994285,-74.21793260000001
+557,United States,New York,Other or Unknown,5,"New York, United States",43.2994285,-74.21793260000001
 558,United States,Newark,Other or Unknown,1,"Newark, United States",40.735657,-74.1723667
 559,United States,Newburyport,Health,1,"Newburyport, United States",42.8125913,-70.87727509999999
 560,United States,Newhall,Arts & Education,1,"Newhall, United States",34.373361,-118.5400404
-561,United States,Newton,Health,1,"Newton, United States",41.0581527,-74.7526651
+561,United States,Newton,Health,1,"Newton, United States",42.3370413,-71.20922139999999
 562,United States,North Caldwell,Other or Unknown,1,"North Caldwell, United States",40.8648215,-74.2582027
 563,United States,North Kansas City,Other or Unknown,1,"North Kansas City, United States",39.14290810000001,-94.5729781
 564,United States,North Potomac,Other or Unknown,1,"North Potomac, United States",39.097769,-77.2347674
@@ -611,7 +611,7 @@
 609,United States,Roseville,ICT,1,"Roseville, United States",38.7521235,-121.2880059
 610,United States,Rumford,Other or Unknown,1,"Rumford, United States",44.5536606,-70.55088289999999
 611,United States,Rye,Other or Unknown,1,"Rye, United States",40.9806535,-73.68373989999999
-612,United States,Sacramento,Other or Unknown,1,"Sacramento, United States",,
+612,United States,Sacramento,Other or Unknown,1,"Sacramento, United States",38.5815719,-121.4943996
 613,United States,Sacramento,Public Sector,1,"Sacramento, United States",38.5815719,-121.4943996
 614,United States,Saint Petersburg,Health,1,"Saint Petersburg, United States",27.7518284,-82.6267345
 615,United States,Salem,Mining,1,"Salem, United States",42.51954,-70.8967155
@@ -652,7 +652,7 @@
 650,United States,Springfield,Media & Marketing,1,"Springfield, United States",42.1014831,-72.589811
 651,United States,Sringfield,Public Sector,1,"Sringfield, United States",42.1014831,-72.589811
 652,United States,St. Louis,Other or Unknown,1,"St. Louis, United States",38.6270025,-90.19940419999999
-653,United States,Stirling,Other or Unknown,1,"Stirling, United States",38.024974,-122.244713
+653,United States,Stirling,Other or Unknown,1,"Stirling, United States",40.6713311,-74.49453849999999
 654,United States,Sudbury,Media & Marketing,1,"Sudbury, United States",42.3834278,-71.4161725
 655,United States,Sugar Land,Health,1,"Sugar Land, United States",29.6196787,-95.6349463
 656,United States,Sun Valley,Engineering,1,"Sun Valley, United States",43.6971294,-114.3517172
